@@ -1,4 +1,6 @@
-![fadilarfat](img/github-header-image2.png)
+<div align="center">
+     <img src="img/github-header-image2.png" height="150" alt="stats graph" />
+</div>
 
 ###
 
