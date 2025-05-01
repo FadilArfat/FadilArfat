@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is FadilArfat and I'm a Newbie Programmer, from Indonesia 🇮🇩</h2>
+![fadilarfat](img/github-header-image.png)
 
 ###
 
