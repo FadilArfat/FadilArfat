@@ -3,14 +3,15 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FadilArfat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&custom_title=My%20Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FadilArfat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=FadilArfat&theme=darkhub&no-bg=true&no-frame=true" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=FadilArfat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&custom_title=My%20Stats" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FadilArfat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/jUnAWY4Ti2ypWE8LaW/giphy.gif?cid=ecf05e4737dgb0x8nbs4ezng02wch10zrp8dnwu2edaqessw&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<div align="center">
+  <img height="350" src="https://64.media.tumblr.com/36493294d403437620a60187030aa76a/c524d164316a9efb-62/s540x810/7a7712cb5c6c4bc7207cc6f784336e6c1926ae1b.gifv"  />
+</div>
 
 ###
 
